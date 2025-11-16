@@ -29,8 +29,8 @@
 ---
 
 ## 🕹️ Fun Animated Section
-### Coding / Tech Animation
-![Coding Animation](https://media.giphy.com/media/3o7aD4zvF9xXwEoE3q/giphy.gif)  
+### Coding / Hacker Animation
+![Hacker Animation](https://media.giphy.com/media/xTiTnzvnYy2xFbgmRy/giphy.gif)  
 
 ### Typing Animation
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Septian+Angga+Saputra;Passionate+about+Web+Development;Always+Learning+New+Tech)
@@ -54,4 +54,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Sptangs&icon=0&color=0&animate=true)](https://visitcount.itsvg.in)
-
