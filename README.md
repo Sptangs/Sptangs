@@ -18,21 +18,27 @@
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&pulse) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&pulse) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&pulse) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&pulse) 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&pulse) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&pulse)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&pulse)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&pulse)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&pulse)
 
 ---
 
 ## 🕹️ Fun Animated Section
-### My Mini Game / Fun GIF
+### Coding / Tech Animation
 ![Coding Animation](https://media.giphy.com/media/3o7aD4zvF9xXwEoE3q/giphy.gif)  
-*Click and imagine a mini-game here!*  
+
+### Typing Animation
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Septian+Angga+Saputra;Passionate+about+Web+Development;Always+Learning+New+Tech)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sptangs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide_title=false&icon_color=61dafb&line_height=27)  
+![](https://github-readme-stats.vercel.app/api?username=Sptangs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sptangs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -48,3 +54,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Sptangs&icon=0&color=0&animate=true)](https://visitcount.itsvg.in)
+
