@@ -37,10 +37,11 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sptangs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=27)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sptangs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+![](https://github-readme-stats.vercel.app/api?username=Sptangs&theme=dark&hide_border=false&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sptangs&theme=dark&hide_border=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sptangs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
