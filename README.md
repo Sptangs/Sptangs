@@ -1,10 +1,11 @@
 # 💫 About Me
-👋 Hi, I'm **Septian Angga Saputra**  
+👋 Hi, I'm Septian Angga Saputra
 
-💻 Passionate about software & web development.  
-🌱 Exploring **React, Node.js, and full-stack projects**.  
-🎯 Always learning and improving my coding skills.  
-📫 Reach me at: [septiananggasaputra129@gmail.com](mailto:septiananggasaputra129@gmail.com)
+💻 Passionate about software & web development, with a focus on building efficient and user-friendly applications.
+🌱 Continuously exploring modern technologies such as React, Node.js, and full-stack development to create scalable solutions.
+🎯 Dedicated to learning, improving coding skills, and contributing to meaningful projects.
+🚀 Interested in problem-solving, clean code practices, and developing innovative web applications.
+📫 Feel free to reach me at: septiananggasaputra129@gmail.com
 
 ---
 
@@ -21,10 +22,12 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&pulse) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&pulse) 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&pulse) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&pulse)
+![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&pulse)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&pulse)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&pulse)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&pulse)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&pulse)
+
 
 ---
 
