@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 # 💫 About Me
 👋 Hi, I'm Septian Angga Saputra
 
@@ -32,6 +34,7 @@
 
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" alt="Hacker Animation">
+  
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Septian+Angga+Saputra;Passionate+about+Web+Development;Always+Learning+New+Tech" alt="Typing SVG">
 </p>
