@@ -59,11 +59,14 @@
 <!-- GitHub Stats -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sptangs&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-
 ---
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sptangs&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sptangs&theme=dark&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sptangs&theme=dark&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sptangs&theme=dark&layout=compact)
+
 
 ---
 
