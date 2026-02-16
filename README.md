@@ -1,7 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sptangs&color=blue)
-
 # 💫 About Me
 👋 Hi, I'm Septian Angga Saputra
+---
+![Profile Views](https://komarev.com/ghpvc/?username=sptangs&color=blue)
+
+---
 
 💻 Passionate about software & web development, focused on building efficient and user-friendly applications.  
 🌱 Continuously exploring modern technologies such as React, Node.js, Golang, and full-stack development to create scalable solutions.  
@@ -39,6 +41,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Septian+Angga+Saputra;Passionate+about+Web+Development;Always+Learning+New+Tech" alt="Typing SVG">
 </p>
 
+---
+
+<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<a href="https://www.buymeacoffee.com/sptangs" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" 
+       alt="Buy Me A Coffee" 
+       style="height: 50px; width: 150px;" />
+</a>
+
+---
+<h3>My GitHub contributions summary</h3>
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sptangs&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sptangs&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+
+---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sptangs&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sptangs&theme=dark&layout=compact)
