@@ -61,12 +61,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sptangs&theme=dark&show_icons=true)
+<!-- GitHub Overall Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sptangs&show_icons=true&theme=dark&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sptangs&theme=dark&layout=compact)
-
 
 ---
 
