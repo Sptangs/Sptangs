@@ -57,17 +57,17 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sptangs&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 <!-- GitHub Stats -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sptangs&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sptangs&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ---
 
 ## 📊 My GitHub Stats
 
 <!-- GitHub Overall Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sptangs&show_icons=true&theme=dark&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sptangs&show_icons=true&theme=dark&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sptangs&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sptangs&theme=dark&layout=compact)
 
 ---
 
