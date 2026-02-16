@@ -36,11 +36,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Septian+Angga+Saputra;Passionate+about+Web+Development;Always+Learning+New+Tech" alt="Typing SVG">
 </p>
 
-### Typing Animation
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Septian+Angga+Saputra;Passionate+about+Web+Development;Always+Learning+New+Tech)
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sptangs&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sptangs&theme=dark&layout=compact)
