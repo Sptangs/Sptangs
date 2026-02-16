@@ -1,11 +1,11 @@
 # 💫 About Me
 👋 Hi, I'm Septian Angga Saputra
 
-💻 Passionate about software & web development, with a focus on building efficient and user-friendly applications.
-🌱 Continuously exploring modern technologies such as React, Node.js, and full-stack development to create scalable solutions.
-🎯 Dedicated to learning, improving coding skills, and contributing to meaningful projects.
-🚀 Interested in problem-solving, clean code practices, and developing innovative web applications.
-📫 Feel free to reach me at: septiananggasaputra129@gmail.com
+💻 Passionate about software & web development, focused on building efficient and user-friendly applications.  
+🌱 Continuously exploring modern technologies such as React, Node.js, Golang, and full-stack development to create scalable solutions.  
+🎯 Dedicated to learning, improving coding skills, and contributing to meaningful projects.  
+🚀 Interested in problem-solving, clean code practices, and developing innovative web applications.  
+📫 Feel free to reach me at: [septiananggasaputra129@gmail.com](mailto:septiananggasaputra129@gmail.com)
 
 ---
 
@@ -28,7 +28,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&pulse)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&pulse)
 
-
 ---
 
 ## 🕹️ Fun Animated Section
@@ -40,21 +39,19 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sptangs&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sptangs&theme=dark&layout=compact)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sptangs&theme=dark&show_icons=true)
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sptangs&theme=dark&layout=compact)
-
-
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sptangs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sptangs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sptangs&icon=0&color=0&animate=true)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Sptangs&icon=0&color=0&animate=true)](https://visitcount.itsvg.in)
