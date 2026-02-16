@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 
 # 💫 About Me
 👋 Hi, I'm Septian Angga Saputra
