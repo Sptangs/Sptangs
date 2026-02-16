@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=sptangs&color=give_your_color)
 
 # 💫 About Me
 👋 Hi, I'm Septian Angga Saputra
